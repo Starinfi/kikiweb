@@ -1,4 +1,4 @@
-baseURL = "https://starinfi.github.io/"
+baseURL = "https://starinfi.github.io/kikiweb/"
 title   = "Kiki一键👆功能无限"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -236,4 +236,3 @@ disableHugoGeneratorInject = false
     identifier = "关于我们"
     name       = "关于我们"
     url        = "about/"
-    
