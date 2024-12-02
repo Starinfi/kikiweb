@@ -1,4 +1,4 @@
-baseURL = "https://starinfi.github.io/kikiweb/"
+baseURL = "https://starinfi.github.io/"
 title   = "Kiki一键👆功能无限"
 languageCode = "en-us"
 theme = "hello-friend-ng"
