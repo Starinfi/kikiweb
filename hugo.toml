@@ -160,7 +160,7 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   
   [params.portrait]
-    path     = "/img/kiki.png"
+    path     = "/kikiweb/img/kiki.png"
     alt      = "Portrait"
     maxWidth = "80px"
 
