@@ -1,0 +1,4 @@
+baseURL = 'https://starinfi.space/'
+languageCode = 'en-us'
+title = 'Kiki一键，功能无限'
+theme = 'hello-friend-ng'
