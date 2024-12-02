@@ -131,6 +131,7 @@ disableHugoGeneratorInject = false
     topText = []
     bottomText = [
       "<span>沪ICP备XXXX</span>",
+      "<span>沪公网安备XXXX</span>",
     ]
 
   # Colors for favicons
