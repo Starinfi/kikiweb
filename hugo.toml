@@ -1,4 +1,4 @@
-baseURL = "https://starinfi.github.io/kikiweb/"
+baseURL = "https://starinfi.space/"
 title   = "Kiki一键👆功能无限"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -130,7 +130,7 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "<span>沪ICP备XXXX</span>",
+      "<span>沪ICP备2024103802号-2</span>",
       "<span>沪公网安备XXXX</span>",
     ]
 
