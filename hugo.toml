@@ -1,5 +1,5 @@
 baseURL = "https://starinfi.space/"
-title   = "小猪一键，优惠返现"
+title   = "小猪一键👆优惠返现"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -236,3 +236,7 @@ disableHugoGeneratorInject = false
     identifier = "关于我们"
     name       = "关于我们"
     url        = "about/"
+  [[menu.main]]
+    identifier = "产品细节"
+    name       = "产品细节"
+    url        = "details/"
