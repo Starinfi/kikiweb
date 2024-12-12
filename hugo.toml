@@ -1,5 +1,5 @@
 baseURL = "https://starinfi.space/"
-title   = "星尘边缘"
+title   = "小猪一键，优惠返现"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -143,7 +143,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = "👆"
-    logoText     = "Kiki悬浮助手"
+    logoText     = "小猪返现"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
