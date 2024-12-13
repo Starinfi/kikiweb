@@ -12,4 +12,4 @@ aliases = ["about-us","about-hugo","contact"]
 ## 联系我们
 地址：上海市XXXXXXX
 
-邮箱：kiki_support@163.com
+邮箱：starinfi_support@163.com
