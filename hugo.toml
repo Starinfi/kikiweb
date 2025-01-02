@@ -143,7 +143,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = "👆"
-    logoText     = "小猪返现"
+    logoText     = "小猪罐罐"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
