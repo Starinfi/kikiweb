@@ -130,7 +130,7 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "<span>沪ICP备2024103802号-2</span>",
+      "<span>沪ICP备XXXX</span>",
       "<span>沪公网安备XXXX</span>",
     ]
 
