@@ -237,6 +237,6 @@ disableHugoGeneratorInject = false
     name       = "关于我们"
     url        = "about/"
   [[menu.main]]
-    identifier = "产品细节"
-    name       = "产品细节"
+    identifier = "产品介绍"
+    name       = "产品介绍"
     url        = "details/"
