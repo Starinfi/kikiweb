@@ -144,7 +144,7 @@ disableHugoGeneratorInject = false
   [params.logo]
     logoMark     = "👆"
     logoText     = "小猪罐罐"
-    logoHomeLink = "/"
+    logoHomeLink = "/kikiweb"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
