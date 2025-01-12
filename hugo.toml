@@ -1,4 +1,4 @@
-baseURL = "https://starinfi.space/"
+baseURL = "https://starinfi.github.io/kikiweb/"
 title   = "小猪一键👆优惠返现"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -160,7 +160,7 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   
   [params.portrait]
-    path     = "/img/kiki.png"
+    path     = "/kikiweb/img/kiki.png"
     alt      = "Portrait"
     maxWidth = "80px"
 
