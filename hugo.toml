@@ -118,7 +118,7 @@ disableHugoGeneratorInject = false
   # plausibleScriptSource = 'https://plausible.io/js/script.js'
 
   [params.author]
-    name = "上海xxxx科技有限公司"
+    name = "上海芯尘边缘科技有限公司"
 
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
