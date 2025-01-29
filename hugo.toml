@@ -240,3 +240,7 @@ disableHugoGeneratorInject = false
     identifier = "产品介绍"
     name       = "产品介绍"
     url        = "details/"
+  [[menu.main]]
+    identifier = "隐私协议"
+    name       = "隐私协议"
+    url        = "privacy/"
