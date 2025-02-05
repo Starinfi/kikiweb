@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "返现 | 比价 | 翻译 | 识屏 | ···"
+  homeSubtitle = "返现 | 比价 | 识屏 | ···"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"

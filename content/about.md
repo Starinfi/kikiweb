@@ -10,6 +10,6 @@ aliases = ["about-us","about-hugo","contact"]
 
 
 ## 联系我们
-地址：上海市XXXXXXX
+地址：上海市闵行区紫星路588号2幢3楼330室
 
 邮箱：support@starinfi.com
