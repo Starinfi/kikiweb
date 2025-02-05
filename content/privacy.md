@@ -253,7 +253,7 @@ aliases = ["product-details"]
 
 
 
-**微信SDK**
+**微信OpenSDK**
 
 **使用目的：**&#x5E2E;助用户跳转至合作电商平台（饿了么）微信小程序下单
 
