@@ -249,8 +249,10 @@ aliases = ["product-details"]
 **第三方主体：**&#x652F;付宝(中国)网络技术有限公司
 
 **隐私政策：**&#x68;ttps://opendocs.alipay.com/common/02kiq3?pathHash=4bdc34df
-<br />
-<br />
+
+
+
+
 **微信SDK**
 
 **使用目的：**&#x5E2E;助用户跳转至合作电商平台（饿了么）微信小程序下单
@@ -262,8 +264,10 @@ aliases = ["product-details"]
 **第三方主体：**&#x6DF1;圳市腾讯计算机系统有限公司
 
 **隐私政策：**<https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8>
-<br />
-<br />
+
+
+
+
 **高德开放平台定位SDK**
 
 **使用目的：**&#x5411;用户提供定位服务
