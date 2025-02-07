@@ -270,17 +270,18 @@ aliases = ["app-privacy"]
 
 **星火认知大模型SDK**
 
-**使用目的：**向用户提供AI屏幕识别功能
+**使用目的：**&#x5411;用户提供AI屏幕识别功能
 
-**涉及个人信息：**用户手机屏幕截屏、设备序列码（SN码）（仅限Android设备）、Android ID（仅限Android设备）、设备号（IMEI号）（仅限Android设备）、UUID（仅限iOS设备）、disk_uuid（仅限Linux、Windows设备）、CPU_id（仅限Linux、Windows设备）、disk_id（仅限Linux、Windows设备）
+**涉及个人信息：**&#x7528;户手机屏幕截屏、设备序列码（SN码）（仅限Android设备）、Android ID（仅限Android设备）、设备号（IMEI号）（仅限Android设备）、UUID（仅限iOS设备）、disk\_uuid（仅限Linux、Windows设备）、CPU\_id（仅限Linux、Windows设备）、disk\_id（仅限Linux、Windows设备）
 
-**权限使用：**网络权限，截屏权限
+**权限使用：**&#x7F51;络权限，截屏权限
 
 **收集方式：**&#x53;DK本机采集
 
-**第三方主体：**科大讯飞股份有限公司
+**第三方主体：**&#x79D1;大讯飞股份有限公司
 
-**隐私政策：**https://www.xfyun.cn/doc/total_sdk_privacy/spark_privacy.html
+**隐私政策：**&#x68;ttps://www.xfyun.cn/doc/total\_sdk\_privacy/spark\_privacy.html
+
 
 
 
