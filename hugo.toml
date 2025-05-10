@@ -1,4 +1,4 @@
-baseURL = "https://starinfi.github.io/"
+baseURL = "/"
 title   = "小猪一键👆AI返现"
 languageCode = "en-us"
 theme = "hello-friend-ng"
