@@ -1,15 +1,7 @@
 +++
-title = "产品细节"
-date = "2024-12-12"
+title = "产品介绍"
+date = "2025-05-21"
 aliases = ["product-details"]
 [ author ]
   name = "上海芯尘边缘科技有限公司"
 +++
-## 使用方法
-![小猪返现使用方法](/kikiweb/img/feature_sudoku_floating_assistant_guide.gif)
-
-## 商业分析
-
-
-
-## 技术分析
