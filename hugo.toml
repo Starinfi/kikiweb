@@ -247,3 +247,7 @@ disableHugoGeneratorInject = false
     identifier = "隐私政策"
     name       = "隐私政策"
     url        = "privacy/"
+  [[menu.main]]
+    identifier = "常见问题"
+    name       = "常见问题"
+    url        = "faq/"
